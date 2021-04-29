@@ -1,7 +1,5 @@
 module NotebookSIAMFANL
 
-using PyPlot
-using LaTeXStrings
 using Printf
 using LinearAlgebra
 using SIAMFANLEquations
