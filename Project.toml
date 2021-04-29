@@ -1,0 +1,7 @@
+name = "NotebookSIAMFANL"
+uuid = "69d0e798-9044-4cf8-b825-daafee9ea485"
+authors = ["C. T. Kelley"]
+version = "1.2.3"
+
+[deps]
+BandedMatrices = "aae01518-5342-5314-be14-df237901396f"
