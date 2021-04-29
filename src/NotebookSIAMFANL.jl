@@ -1,6 +1,7 @@
 module NotebookSIAMFANL
 
 using Printf
+using LaTeXStrings
 using LinearAlgebra
 using SIAMFANLEquations
 using SIAMFANLEquations.TestProblems
