@@ -5,4 +5,5 @@ version = "1.2.3"
 
 [deps]
 BandedMatrices = "aae01518-5342-5314-be14-df237901396f"
+Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
 SIAMFANLEquations = "084e46ad-d928-497d-ad5e-07fa361a48c4"
